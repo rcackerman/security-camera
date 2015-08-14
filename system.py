@@ -1,6 +1,7 @@
 ''' 
 TODO: 
-* Make sure NTP is running
+* Make sure NTP is running so we have an accurate time
+* Automatically deal with time zone! (DST etc)
 '''
 
 S3_KEY = process.env.S3_KEY
