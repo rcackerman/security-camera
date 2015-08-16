@@ -1,5 +1,5 @@
 # security camera
-# approach based on 
+# approach based on
 # https://realpython.com/blog/python/fingerprinting-images-for-near-duplicate-detection/
 
 from PIL import Image, ImageOps
