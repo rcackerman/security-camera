@@ -1,4 +1,0 @@
-ImageHash==1.0
-numpy==1.9.2
-Pillow==2.9.0
-scipy==0.16.0

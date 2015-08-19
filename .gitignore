@@ -64,3 +64,6 @@ target/
 # Sensitive things
 *.env*
 
+# ??
+*.pth
+
