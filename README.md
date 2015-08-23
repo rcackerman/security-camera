@@ -19,3 +19,10 @@ Note: as long as you use python installed via Homebrew, opencv should work autom
 ln -s /usr/local/Cellar/opencv/2.4.9/lib/python2.7/site-packages/cv.py <PYTHONPATH>/cv.py
 ln -s /usr/local/Cellar/opencv/2.4.9/lib/python2.7/site-packages/cv2.so <PYTHONPATH>/cv2.so
 ```
+
+If you have used a virtualenv, you can use the following directions:
+```
+cd ~/.virtualenvs/security-camera/lib/python2.7/site-packages
+ln -s /usr/local/Cellar/opencv/2.4.12/lib/python2.7/site-packages/cv.py cv.py
+ln -s /usr/local/Cellar/opencv/2.4.12/lib/python2.7/site-packages/cv2.so cv2.so
+```
