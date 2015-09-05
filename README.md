@@ -1,7 +1,6 @@
 # security-camera
 Bespoke security camera
 
-
 ## Installation instructions
 
 1. install cv2
